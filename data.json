@@ -1,0 +1,873 @@
+[
+  {
+    "transferId": 103913,
+    "ncaaId": "1905580475",
+    "firstName": "MIKKEL",
+    "lastName": "SOLBAKKEN",
+    "createTimestamp": "2022-09-27T10:53:50.038885",
+    "updateTimestamp": "2022-09-27T10:53:56",
+    "division": "2",
+    "institutionName": "Westminster College (Utah)",
+    "conferenceName": "Rocky Mountain Athletic Conference",
+    "statusCode": "INC",
+    "academicYear": 2023,
+    "orgId": 30209,
+    "confId": 13128,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 119064,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 2,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "22-23"
+  },
+  {
+    "transferId": 103596,
+    "ncaaId": "2105159550",
+    "firstName": "EIRIK",
+    "lastName": "KVENO",
+    "createTimestamp": "2022-09-19T08:31:40.271108",
+    "updateTimestamp": "2022-09-19T08:31:44",
+    "division": "2",
+    "institutionName": "Saint Michael's College",
+    "conferenceName": "Northeast-10 Conference",
+    "statusCode": "INC",
+    "academicYear": 2023,
+    "orgId": 613,
+    "confId": 899,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 118629,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 2,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "22-23"
+  },
+  {
+    "transferId": 84959,
+    "ncaaId": "1805202643",
+    "firstName": "MAXIM",
+    "lastName": "BERVY III",
+    "createTimestamp": "2022-03-15T17:48:04.958695",
+    "updateTimestamp": "2022-09-06T09:03:02",
+    "division": "1",
+    "institutionName": "University of Colorado, Boulder",
+    "conferenceName": "Pac-12 Conference",
+    "statusCode": "MAT",
+    "academicYear": 2022,
+    "orgId": 157,
+    "confId": 905,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 96972,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "21-22"
+  },
+  {
+    "transferId": 68900,
+    "ncaaId": "2110340774",
+    "firstName": "EMIL ROBERT BOOK",
+    "lastName": "BRATBAK",
+    "createTimestamp": "2021-10-05T14:19:04.293827",
+    "updateTimestamp": "2021-10-06T06:01:02",
+    "division": "3",
+    "institutionName": "The College of St. Scholastica",
+    "conferenceName": "Minnesota Intercollegiate Athletic Conference",
+    "statusCode": "INC",
+    "academicYear": 2022,
+    "orgId": 618,
+    "confId": 882,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 78924,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 3,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "21-22"
+  },
+  {
+    "transferId": 66828,
+    "ncaaId": "1809296974",
+    "firstName": "LARS",
+    "lastName": "DEWALL",
+    "createTimestamp": "2021-08-15T21:52:15.942233",
+    "updateTimestamp": "2022-04-19T16:34:32",
+    "division": "3",
+    "institutionName": "The College of St. Scholastica",
+    "conferenceName": "Minnesota Intercollegiate Athletic Conference",
+    "statusCode": "WTH",
+    "academicYear": 2022,
+    "orgId": 618,
+    "confId": 882,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 4,
+      "code": "WTH",
+      "description": "Withdrawn"
+    },
+    "saTransferSports": [
+      {
+        "id": 76307,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 3,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "21-22"
+  },
+  {
+    "transferId": 59449,
+    "ncaaId": "1704771297",
+    "firstName": "SPENCER",
+    "lastName": "SMITH",
+    "createTimestamp": "2021-05-12T09:41:31.192941",
+    "updateTimestamp": "2021-10-04T11:48:12",
+    "division": "1",
+    "institutionName": "University of Vermont",
+    "conferenceName": "America East Conference",
+    "statusCode": "MAT",
+    "academicYear": 2021,
+    "orgId": 738,
+    "confId": 845,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 67701,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 55291,
+    "ncaaId": "1805199176",
+    "firstName": "JEFFREY",
+    "lastName": "HARRISON",
+    "createTimestamp": "2021-04-15T12:21:54.854121",
+    "updateTimestamp": "2021-09-30T15:09:08",
+    "division": "3",
+    "institutionName": "Plymouth State University",
+    "conferenceName": "Little East Conference",
+    "statusCode": "MAT",
+    "academicYear": 2021,
+    "orgId": 548,
+    "confId": 867,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 63082,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 3,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 53596,
+    "ncaaId": "2011961354",
+    "firstName": "COLBEY",
+    "lastName": "DERWIN",
+    "createTimestamp": "2021-04-05T11:37:12.239091",
+    "updateTimestamp": "2021-04-06T06:01:04",
+    "division": "3",
+    "institutionName": "Colby College",
+    "conferenceName": "New England Small College Athletic Conference",
+    "statusCode": "INC",
+    "academicYear": 2021,
+    "orgId": 151,
+    "confId": 12817,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 61209,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 3,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 52405,
+    "ncaaId": "1806220414",
+    "firstName": "AUSTIN",
+    "lastName": "LILLEY",
+    "createTimestamp": "2021-03-29T09:57:13.247779",
+    "updateTimestamp": "2021-05-18T10:18:27",
+    "division": "2",
+    "institutionName": "Saint Michael's College",
+    "conferenceName": "Northeast-10 Conference",
+    "statusCode": "WTH",
+    "academicYear": 2021,
+    "orgId": 613,
+    "confId": 899,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 4,
+      "code": "WTH",
+      "description": "Withdrawn"
+    },
+    "saTransferSports": [
+      {
+        "id": 59937,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 2,
+        "confName": "Northeast-10 Conference"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 51955,
+    "ncaaId": "1510334070",
+    "firstName": "RYAN",
+    "lastName": "JACKSON",
+    "createTimestamp": "2021-03-24T18:58:58.253129",
+    "updateTimestamp": "2021-04-28T13:17:50",
+    "division": "1",
+    "institutionName": "University of Colorado, Boulder",
+    "conferenceName": "Pac-12 Conference",
+    "statusCode": "WTH",
+    "academicYear": 2021,
+    "orgId": 157,
+    "confId": 905,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 4,
+      "code": "WTH",
+      "description": "Withdrawn"
+    },
+    "saTransferSports": [
+      {
+        "id": 59462,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 47116,
+    "ncaaId": "2101101014",
+    "firstName": "JACOB",
+    "lastName": "SLAUGHTER",
+    "createTimestamp": "2021-01-29T12:44:12.138331",
+    "updateTimestamp": "2021-01-29T12:44:41",
+    "division": "1",
+    "institutionName": "Yale University",
+    "conferenceName": "The Ivy League",
+    "statusCode": "INC",
+    "academicYear": 2021,
+    "orgId": 813,
+    "confId": 865,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 53980,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": null,
+        "confName": "Sport not sponsored"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 40380,
+    "ncaaId": "1708861225",
+    "firstName": "LOGAN",
+    "lastName": "SLATTERY",
+    "createTimestamp": "2020-10-06T13:52:37.915079",
+    "updateTimestamp": "2020-10-06T13:53:20",
+    "division": "1",
+    "institutionName": "University of New Hampshire",
+    "conferenceName": "America East Conference",
+    "statusCode": "INC",
+    "academicYear": 2021,
+    "orgId": 469,
+    "confId": 845,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 46179,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      },
+      {
+        "id": 46180,
+        "sportCode": "MSO",
+        "description": "Men's Soccer",
+        "division": 1,
+        "confName": "America East Conference"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "20-21"
+  },
+  {
+    "transferId": 31728,
+    "ncaaId": "1710952822",
+    "firstName": "SKYLER",
+    "lastName": "KELSEY",
+    "createTimestamp": "2020-04-14T16:34:17.083879",
+    "updateTimestamp": "2020-08-24T19:59:19",
+    "division": "2",
+    "institutionName": "University of Alaska Anchorage",
+    "conferenceName": "Great Northwest Athletic Conference",
+    "statusCode": "MAT",
+    "academicYear": 2020,
+    "orgId": 11,
+    "confId": 30012,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 36030,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 2,
+        "confName": "Great Northwest Athletic Conference"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "19-20"
+  },
+  {
+    "transferId": 30931,
+    "ncaaId": "1604466588",
+    "firstName": "LUKASH",
+    "lastName": "PLATIL",
+    "createTimestamp": "2020-04-07T19:49:50.993273",
+    "updateTimestamp": "2021-08-02T14:07:51",
+    "division": "2",
+    "institutionName": "University of Alaska Fairbanks",
+    "conferenceName": "Great Northwest Athletic Conference",
+    "statusCode": "WTH",
+    "academicYear": 2020,
+    "orgId": 12,
+    "confId": 30012,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "Y",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 4,
+      "code": "WTH",
+      "description": "Withdrawn"
+    },
+    "saTransferSports": [
+      {
+        "id": 35134,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 2,
+        "confName": "Great Northwest Athletic Conference"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "19-20"
+  },
+  {
+    "transferId": 25700,
+    "ncaaId": "1707848369",
+    "firstName": "RYAN",
+    "lastName": "MEAD",
+    "createTimestamp": "2020-02-10T14:42:16.054311",
+    "updateTimestamp": "2020-02-10T14:45:34",
+    "division": "1",
+    "institutionName": "University of Wisconsin-Green Bay",
+    "conferenceName": "Horizon League",
+    "statusCode": "INC",
+    "academicYear": 2020,
+    "orgId": 794,
+    "confId": 881,
+    "okToContact": "N",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "Y",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 29116,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "19-20"
+  },
+  {
+    "transferId": 24627,
+    "ncaaId": "1904489181",
+    "firstName": "EVERETT",
+    "lastName": "OLSON",
+    "createTimestamp": "2020-01-21T20:41:02.460729",
+    "updateTimestamp": "2020-09-23T12:23:33.676235",
+    "division": "2",
+    "institutionName": "University of Alaska Anchorage",
+    "conferenceName": "Great Northwest Athletic Conference",
+    "statusCode": "MAT",
+    "academicYear": 2020,
+    "orgId": 11,
+    "confId": 30012,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 27905,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 2,
+        "confName": "Great Northwest Athletic Conference"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "19-20"
+  },
+  {
+    "transferId": 24202,
+    "ncaaId": "1905564078",
+    "firstName": "EVAN",
+    "lastName": "SEMET",
+    "createTimestamp": "2020-01-14T15:06:12.713577",
+    "updateTimestamp": "2020-01-14T15:10:17",
+    "division": "1",
+    "institutionName": "Boston College",
+    "conferenceName": "Atlantic Coast Conference",
+    "statusCode": "INC",
+    "academicYear": 2020,
+    "orgId": 67,
+    "confId": 821,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 27440,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "19-20"
+  },
+  {
+    "transferId": 19758,
+    "ncaaId": "1611666039",
+    "firstName": "COLLIN",
+    "lastName": "WILSON",
+    "createTimestamp": "2019-11-12T15:11:20.833564",
+    "updateTimestamp": "2019-11-12T15:14:12",
+    "division": "3",
+    "institutionName": "Middlebury College",
+    "conferenceName": "New England Small College Athletic Conference",
+    "statusCode": "INC",
+    "academicYear": 2020,
+    "orgId": 420,
+    "confId": 12817,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": "N",
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 22630,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 3,
+        "confName": "New England Small College Athletic Conference"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "19-20"
+  },
+  {
+    "transferId": 10918,
+    "ncaaId": "1706817590",
+    "firstName": "LINUS",
+    "lastName": "WALCH",
+    "createTimestamp": "2019-04-15T10:31:16.548071",
+    "updateTimestamp": "2019-04-15T10:32:35",
+    "division": "1",
+    "institutionName": "University of Utah",
+    "conferenceName": "Pac-12 Conference",
+    "statusCode": "INC",
+    "academicYear": 2019,
+    "orgId": 732,
+    "confId": 905,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": null,
+    "isReceivingAthleticAid": null,
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 12229,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "18-19"
+  },
+  {
+    "transferId": 8624,
+    "ncaaId": "1704774158",
+    "firstName": "THOMAS",
+    "lastName": "ANDERSON",
+    "createTimestamp": "2019-03-21T10:27:33.744963",
+    "updateTimestamp": "2019-08-23T06:01:07",
+    "division": "1",
+    "institutionName": "University of New Mexico",
+    "conferenceName": "Mountain West Conference",
+    "statusCode": "INC",
+    "academicYear": 2019,
+    "orgId": 473,
+    "confId": 5486,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": null,
+    "isReceivingAthleticAid": null,
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 9693,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "18-19"
+  },
+  {
+    "transferId": 8576,
+    "ncaaId": "1804174895",
+    "firstName": "OLAV",
+    "lastName": "SANDERBERG",
+    "createTimestamp": "2019-03-20T17:29:20.816477",
+    "updateTimestamp": "2019-08-29T12:20:47",
+    "division": "1",
+    "institutionName": "University of New Mexico",
+    "conferenceName": "Mountain West Conference",
+    "statusCode": "MAT",
+    "academicYear": 2019,
+    "orgId": 473,
+    "confId": 5486,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": null,
+    "isReceivingAthleticAid": null,
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 9641,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "18-19"
+  },
+  {
+    "transferId": 8453,
+    "ncaaId": "1805191323",
+    "firstName": "JOHAN",
+    "lastName": "MELAND",
+    "createTimestamp": "2019-03-19T16:52:17.861646",
+    "updateTimestamp": "2019-08-23T06:01:07",
+    "division": "1",
+    "institutionName": "University of New Mexico",
+    "conferenceName": "Mountain West Conference",
+    "statusCode": "INC",
+    "academicYear": 2019,
+    "orgId": 473,
+    "confId": 5486,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": null,
+    "isReceivingAthleticAid": null,
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 2,
+      "code": "INC",
+      "description": "Incomplete"
+    },
+    "saTransferSports": [
+      {
+        "id": 9510,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "18-19"
+  },
+  {
+    "transferId": 7738,
+    "ncaaId": "1709900137",
+    "firstName": "ANDREW",
+    "lastName": "MEYER",
+    "createTimestamp": "2019-03-08T13:03:40.484679",
+    "updateTimestamp": "2019-09-10T14:09:40",
+    "division": "1",
+    "institutionName": "University of New Hampshire",
+    "conferenceName": "America East Conference",
+    "statusCode": "WTH",
+    "academicYear": 2019,
+    "orgId": 469,
+    "confId": 845,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": null,
+    "isReceivingAthleticAid": null,
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 4,
+      "code": "WTH",
+      "description": "Withdrawn"
+    },
+    "saTransferSports": [
+      {
+        "id": 8720,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "America East Conference"
+      }
+    ],
+    "tracerStatus": null,
+    "favoriteId": null,
+    "academicYearString": "18-19"
+  },
+  {
+    "transferId": 7127,
+    "ncaaId": "1705813520",
+    "firstName": "ROBERT",
+    "lastName": "RYAN III",
+    "createTimestamp": "2019-02-25T13:41:31.959256",
+    "updateTimestamp": "2020-01-16T16:30:08.122113",
+    "division": "1",
+    "institutionName": "Boston College",
+    "conferenceName": "Atlantic Coast Conference",
+    "statusCode": "MAT",
+    "academicYear": 2019,
+    "orgId": 67,
+    "confId": 821,
+    "okToContact": "Y",
+    "isTransferGraduateStudent": "N",
+    "isReceivingAthleticAid": "N",
+    "isContactRestrictions": null,
+    "saTransferStatus": {
+      "id": 5,
+      "code": "MAT",
+      "description": "Matriculated"
+    },
+    "saTransferSports": [
+      {
+        "id": 8005,
+        "sportCode": "MSK",
+        "description": "Men's Skiing",
+        "division": 1,
+        "confName": "Independent"
+      }
+    ],
+    "tracerStatus": "CMPLT",
+    "favoriteId": null,
+    "academicYearString": "18-19"
+  }
+]
