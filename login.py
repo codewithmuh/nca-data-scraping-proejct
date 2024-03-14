@@ -1,37 +1,27 @@
-
-
-from time import sleep
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by  import By
-import pickle
+from time import sleep
 import json
-
-
 
 url = "https://web1.ncaa.org/saTransfer/otherInstitutions"
 
+# Configure Chrome options
 opts = Options()
-opts.add_experimental_option('debuggerAddress', 'localhost:9222')
+opts.add_argument("--remote-debugging-port=9222")  # Adjusted for macOS
+
+# Initialize Chrome webdriver with configured options
 driver = webdriver.Chrome(options=opts)
-driver.get(url) 
+driver.get(url)
 
-
-input()
+# You may want to add some delay here to ensure the page loads completely
 sleep(5)
 
-data=driver.get_cookies()
-# write to temp file        
+# Get cookies
+cookies = driver.get_cookies()
+
+# Write cookies to a JSON file
 with open('cookie2.json', 'w') as outputfile:
-    json.dump(data, outputfile)
-    driver.close()
-    outputfile.close()
+    json.dump(cookies, outputfile)
 
-
-
-
-
-
-
-
+# Close the driver
+driver.quit()
